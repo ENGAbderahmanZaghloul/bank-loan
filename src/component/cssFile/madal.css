@@ -1,0 +1,16 @@
+.popub-content {
+    background-color: white;
+    color: green;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.popub {
+    position: absolute;
+    background: #00000075;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
